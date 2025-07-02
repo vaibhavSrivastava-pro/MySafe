@@ -98,3 +98,4 @@ npx expo start
 5. ⬆️ **Upload**: Sync encrypted files to FTP server
 6. 🔄 **Sync**: Automatic conflict resolution based on timestamps
 
+```
