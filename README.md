@@ -1,7 +1,3 @@
-Here's your polished and well-formatted `README.md` with proper Markdown structure and emojis for readability:
-
----
-
 ````markdown
 # 🔐 MySafeee - Secure File Transfer Platform
 
