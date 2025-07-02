@@ -1,4 +1,3 @@
-````markdown
 # 🔐 MySafeee - Secure File Transfer Platform
 
 A secure file transfer solution enabling **encrypted file sharing** between desktop and mobile devices via **FTP**. MySafeee ensures your sensitive data remains protected during transfer and storage.
@@ -63,7 +62,7 @@ cd Backend
 npm install
 npm start
 # Server runs on http://localhost:3000
-````
+```
 
 ---
 
@@ -91,11 +90,9 @@ npx expo start
 
 ## 📦 Usage Workflow
 
-1. 🔗 **Connect**: Establish FTP server connection using your credentials
-2. 📂 **Open**: Load encrypted files from local storage or FTP server
-3. 📝 **Edit**: Modify file content in the built-in editor
-4. 💾 **Save**: Encrypt and save files locally
-5. ⬆️ **Upload**: Sync encrypted files to FTP server
+1. 🔗 **Connect**: Establish FTP server connection using your credentials  
+2. 📂 **Open**: Load encrypted files from local storage or FTP server  
+3. 📝 **Edit**: Modify file content in the built-in editor  
+4. 💾 **Save**: Encrypt and save files locally  
+5. ⬆️ **Upload**: Sync encrypted files to FTP server  
 6. 🔄 **Sync**: Automatic conflict resolution based on timestamps
-
-```
