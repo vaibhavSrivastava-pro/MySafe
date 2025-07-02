@@ -1,0 +1,15 @@
+Backend/files/
+Backend/node_modules/
+Backend/data.txt
+
+MobileApp/node_modules/
+
+# Expo
+MobileApp/.expo/
+MobileApp/dist/
+MobileApp/web-build/
+MobileApp/.env
+
+WebFrontend/node_modules/
+WebFrontend/dist/
+

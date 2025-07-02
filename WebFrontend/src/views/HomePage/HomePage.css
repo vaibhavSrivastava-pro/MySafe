@@ -1,0 +1,73 @@
+.homepage-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .file-path {
+    margin-bottom: 10px;
+    font-style: italic;
+    color: #555;
+  }
+  
+  .editor-container {
+    margin: 20px 0;
+  }
+  
+  .file-editor {
+    width: 100%;
+    min-height: 300px;
+    padding: 12px;
+    font-family: monospace;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  
+  .button-container {
+    display: flex;
+    gap: 10px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  
+  .save-button {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .upload-button {
+    background-color: #2196F3;
+    color: white;
+  }
+
+  .disconnect-button{
+    background-color: #c62828;
+    color: white;
+  }
+  
+  .loading {
+    margin: 10px 0;
+    color: #888;
+  }
+  
+  .error-message {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #ffebee;
+    color: #c62828;
+    border-radius: 4px;
+  }
+
