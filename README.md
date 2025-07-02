@@ -103,8 +103,3 @@ npx expo start
 > 🛡️ *MySafeee is designed with security-first principles to protect your sensitive data across platforms.*
 
 ```
-
----
-
-Let me know if you'd like me to generate a live preview or add badges, licensing, contribution, or screenshot sections.
-```
